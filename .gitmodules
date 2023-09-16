@@ -1,6 +1,6 @@
 [submodule "Singleton"]
 	path = firmware/Singleton
-	url = git://github.com/hazelnusse/Singleton.git
+	url = https://github.com/hazelnusse/Singleton.git
 [submodule "firmware/nanopb"]
 	path = firmware/nanopb
 	url = https://github.com/nanopb/nanopb.git
